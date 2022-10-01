@@ -1,4 +1,4 @@
-# Poszukiwanie skarbów
+# Treasure hunt - full description in polish
 
 Celem zadania jest napisanie kodu do reprezentowania i symulowania ekspedycji
 poszukujących skarbów. Ponieważ uczestnicy ekspedycji, skarby, które znajdują,
@@ -6,7 +6,9 @@ oraz sam przebieg ekspedycji mogą być bardzo różne, rozwiązanie powinno by�
 ogólne.
 
 Rozwiązanie powinno składać się z trzech plików:
-`treasure.h`, `member.h` i `treasure_hunt.h`.
+[treasure.h](https://github.com/patjed41/JNP1/blob/master/task4/treasure.h),
+[member.h](https://github.com/patjed41/JNP1/blob/master/task4/member.h) i
+[treasure_hunt.h](https://github.com/patjed41/JNP1/blob/master/task4/treasure_hunt.h).
 
 ## Skarby – `treasure.h`
 
